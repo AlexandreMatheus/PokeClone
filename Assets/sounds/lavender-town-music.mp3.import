@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/lavender-town-music.mp3-f889045f6f4b6719d20e3d47fc0f8a22.mp3str"
+
+[deps]
+
+source_file="res://Assets/sounds/lavender-town-music.mp3"
+dest_files=[ "res://.import/lavender-town-music.mp3-f889045f6f4b6719d20e3d47fc0f8a22.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
