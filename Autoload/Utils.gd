@@ -2,6 +2,12 @@ extends Node
 
 var has_saw_first_dialogue = false
 
+var pokebola1 = true
+var pokebola2 = true
+var pokebola3 = true
+var pokebola4 = true
+var pokebola5 = true
+
 func _ready():
 	pass # Replace with function body.
 
